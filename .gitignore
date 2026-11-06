@@ -1,0 +1,5 @@
+.DS_Store
+.taste-skill/
+work/
+outputs/*
+!outputs/Yeditepe-Kampus-Widget.js
